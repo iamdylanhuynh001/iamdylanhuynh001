@@ -1,7 +1,7 @@
-### Hi there 👋
-- 🔭 I’m currently working on the Odin Project to learn more about web development!
+### Hi there 👋  I'm Dylan!!!
+My name is Dylan and I'm currently studying for a Bachelor's of Computer Science.  As of right now, I enjoy playing the game [Valorant](https://playvalorant.com/en-us/) and trying out [Dota 2](https://www.dota2.com/home).  I'm not so sure which field of software engineering I want to pursue, so I'm exploring all of my options.
+- 🔭 I’m currently working on the Odin Project
 - 🌱 I’m currently learning about front-end development!
- - 🤔 I’m looking for help with anything front-end related
 - 📫 How to reach me: dylanhuynh001@gmail.com
 - 😄 Pronouns: he/him
 <!--
