@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on the Odin Project to learn more about web development!
+- 🌱 I’m currently learning about front-end development!
+ - 🤔 I’m looking for help with anything front-end related
+- 📫 How to reach me: dylanhuynh001@gmail.com
+- 😄 Pronouns: he/him
 <!--
 **iamdylanhuynh001/iamdylanhuynh001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
